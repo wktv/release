@@ -1,5 +1,10 @@
 # release
 
+[下载安装包](https://github.com/wktv/release/releases)
+
+## v2.1.0
+- 支持设备同步播放列表、收藏夹
+
 ## v2.0.0
 - 支持 M3U 播放列表
 - 支持多设备互联
