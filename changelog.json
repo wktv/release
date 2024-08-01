@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "version": "2.3.0",
+      "features": ["[TV]Player module upgraded for more stable playback", "Fixed the issue of freezing when switching playlists", "Other bug fixes and performance improvements"]
+    },
+    {
+      "version": "2.2.0",
+      "features": ["[Android] Pause playback when menu pops up"]
+    },
+    {
       "version": "2.1.0",
       "features": ["Support device synchronization of playlists and favorites"]
     },
