@@ -6,7 +6,7 @@
     },
     {
       "version": "2.2.0",
-      "features": ["[Android] Pause playback when menu pops up"]
+      "features": ["[TV] Pause playback when menu pops up"]
     },
     {
       "version": "2.1.0",
